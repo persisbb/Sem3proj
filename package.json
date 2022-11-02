@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chouglesaud/dijkstra_visualization.git"
+    "url": "https://github.com/persisbb/Sem3proj/"
   },
   "bugs": {
-    "url": "https://github.com/chouglesaud/dijkstra_visualization/issues"
+    "url": "https://github.com/persisbb/Sem3proj/"
   },
-  "homepage": "https://chouglesaud.github.io/dijkstra_visualization"
+  "homepage": "https://github.com/persisbb/Sem3proj/"
 }
